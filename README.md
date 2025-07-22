@@ -2,18 +2,28 @@
   <a name="logo"><img src="img/eda-banner.png" alt="Estructuras de Datos y Algoritmos" width="750"></a>
   <br>
   Estructuras de Datos y Algoritmos
-<h4 align="center">¿Este repo te fué útil? Tirame una ⭐, ¡Me re ayuda!</h4>
+<h4 align="center">¿Este repo te fué útil? Tirame una ⭐</h4>
 
-Cátedra de Estructuras de Datos y Algoritmos
+## 📚 ¿Qué es Estructura de Datos y Algoritmos?
+Estructura de Datos y Algoritmos es una materia fundamental en la formación de cualquier estudiante de ingeniería. Su objetivo principal es enseñar cómo organizar, manipular y procesar datos de manera eficiente mediante estructuras como listas, pilas, colas, árboles y grafos, junto con algoritmos que permiten resolver problemas de forma óptima en tiempo y espacio.
 
-Facultad de Ingeniería de la Universidad Nacional de Asunción
+## 🤔 ¿Por qué usamos Estructuras de Datos y Algoritmos (EDA)?
+Usamos EDA porque nos permiten resolver problemas de forma eficiente. Una buena elección de estructura o algoritmo puede hacer que un programa sea mucho más rápido, consuma menos memoria y sea más fácil de mantener. Sin EDA, el código se vuelve ineficiente, desorganizado y difícil de escalar.
 
-2025 ciclo 2
+## 🧠 ¿Cómo se usan las EDA en programación?
+Se usan como herramientas básicas al escribir programas. Por ejemplo:
+
+- Usamos ***pilas y colas*** para manejar tareas en orden.
+- Usamos ***listas, arreglos y mapas*** para almacenar y acceder a datos rápidamente.
+- Usamos ***árboles y grafos*** para representar jerarquías o relaciones complejas.
+- Usamos algoritmos como ***búsqueda, ordenamiento o recorrido*** para manipular esos datos de forma eficiente.
+
+En programación real, cada estructura o algoritmo tiene casos ideales de uso, y parte del aprendizaje es saber cuándo conviene usar cada uno.
 
 ## Semana 1
 
-|  #  |  Título  |  Teoría  |  Video  |  Dificultad                 
-|-----|----------|----------|---------|--------------
+|  #  |  Título  |  Teoría  |  Dificultad                 
+|-----|----------|----------|--------------
 |1|[Intercambiar dos variables sin usar una variable auxiliar](Semana%201\intercambiar-variable.c)
 |2|[Mostrar en pantalla solo el dígito más a la derecha de la suma de dos números](Semana%201\digito-derecha.c)
 |3|[Hallar el perímetro y el área de un triángulo dados sus lados](perimetro-area.c)
