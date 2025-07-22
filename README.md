@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a name="logo"><img src="img/eda-banner.png" alt="Estructuras de Datos y Algoritmos" width="750"></a>
+  <a name="logo"><img src="src/img/eda-banner.png" alt="Estructuras de Datos y Algoritmos" width="750"></a>
   <br>
   Estructuras de Datos y Algoritmos
 <h4 align="center">¿Este repo te fué útil? Tirame una ⭐</h4>
