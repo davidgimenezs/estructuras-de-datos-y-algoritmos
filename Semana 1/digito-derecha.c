@@ -19,6 +19,6 @@ int main () {
 	b = a % 10;
 	
 	printf("El digito mas a la derecha de la suma a = %d es: %d", a, b);
-	
+
 	return 0;
 }
