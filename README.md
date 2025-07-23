@@ -23,6 +23,6 @@ En programación real, cada estructura o algoritmo tiene casos ideales de uso, y
 
 |  #  |  Título  |  Teoría  |  Dificultad                 
 |-----|----------|----------|--------------
-|1|[Intercambiar dos variables sin usar una variable auxiliar](Semana%201\intercambiar-variable.c)
-|2|[Mostrar en pantalla solo el dígito más a la derecha de la suma de dos números](Semana%201\digito-derecha.c)
-|3|[Hallar el perímetro y el área de un triángulo dados sus lados](perimetro-area.c)
+|1|[Intercambiar dos variables sin usar una variable auxiliar](Semana%201/intercambiar-variable.c)
+|2|[Mostrar en pantalla solo el dígito más a la derecha de la suma de dos números](Semana%201/digito-derecha.c)
+|3|[Hallar el perímetro y el área de un triángulo dados sus lados](Semana%201/perimetro-area.c)
