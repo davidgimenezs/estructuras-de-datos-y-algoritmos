@@ -3,7 +3,7 @@
 
 <h4 align="center">¿Este repo te fué útil? Dale una ⭐
   </br> 
-  Si encontras algún error o querés colaborar con el proyecto, hacé un 
+  Si encontrás algún error o querés colaborar con el proyecto, hacé un 
   <a href="https://github.com/cpfiuna/mi-primer-pr">pull request</a>!
 </h4>
 
