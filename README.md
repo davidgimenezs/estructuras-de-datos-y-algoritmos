@@ -1,7 +1,8 @@
 <h1 align="center">
   <a name="logo"><img src="src/img/eda-banner.png" alt="Estructuras de Datos y Algoritmos" width="750"></a>
 
-<h4 align="center">¿Este repo te fué útil? Tirame una ⭐, si encontras errores o querés colaborar con el proyecto, hacé un pull request!</h4>
+<h4 align="center">¿Este repo te fué útil? Tirame una ⭐</h4>
+<h4 align="center">Si encontras errores o querés colaborar con el proyecto, hacé un pull request!</h4>
 
 ## 📚 ¿Qué es Estructura de Datos y Algoritmos?
 Estructura de Datos y Algoritmos es una materia fundamental en la formación de cualquier estudiante de ingeniería. Su objetivo principal es enseñar cómo organizar, manipular y procesar datos de manera eficiente mediante estructuras como listas, pilas, colas, árboles y grafos, junto con algoritmos que permiten resolver problemas de forma óptima en tiempo y espacio.
