@@ -19,7 +19,7 @@ Se usan como herramientas básicas al escribir programas. Por ejemplo:
 
 En programación real, cada estructura o algoritmo tiene casos ideales de uso, y parte del aprendizaje es saber cuándo conviene usar cada uno.
 
-## Semana 1
+## Semana 1 - Introducción al lenguaje C
 
 |  #  |  Título  |  Teoría  |  Dificultad                 
 |-----|----------|----------|--------------
