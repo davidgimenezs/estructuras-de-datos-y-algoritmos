@@ -23,6 +23,6 @@ En programación real, cada estructura o algoritmo tiene casos ideales de uso, y
 
 |  #  |  Título  |  Teoría  |  Dificultad                 
 |-----|----------|----------|--------------
-|1|[Intercambiar dos variables sin usar una variable auxiliar](Semana%201/intercambiar-variable.c) | [Wiki](https://github.com/davidgimenezs/estructuras-de-datos-y-algoritmos/wiki/Ejercicio-001-%E2%80%90-Intercambiar-dos-variables-sin-usar-una-variable-auxiliar) | 🟢 Fácil
+|1|[Intercambiar dos variables sin usar una variable auxiliar](Semana%201/intercambiar-variable.c) | [Wiki](https://github.com/davidgimenezs/estructuras-de-datos-y-algoritmos/wiki/Ejercicio-001-%E2%80%90-Intercambiar-dos-variables-sin-usar-una-variable-auxiliar) |🟢 Fácil
 |2|[Mostrar en pantalla solo el dígito más a la derecha de la suma de dos números](Semana%201/digito-derecha.c) | [Wiki](https://github.com/davidgimenezs/estructuras-de-datos-y-algoritmos/wiki/Ejercicio-002-%E2%80%90-Mostrar-en-pantalla-solo-el-d%C3%ADgito-m%C3%A1s-a-la-derecha-de-la-suma-de-dos-n%C3%BAmeros) | 🟢 Fácil
 |3|[Hallar el perímetro y el área de un triángulo dados sus lados](Semana%201/perimetro-area.c) | [Wiki](https://github.com/davidgimenezs/estructuras-de-datos-y-algoritmos/wiki/Ejercicio-003-%E2%80%90-Hallar-el-per%C3%ADmetro-y-el-%C3%A1rea-de-un-tri%C3%A1ngulo-dados-sus-lados) | 🟡 Intermedio
