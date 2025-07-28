@@ -27,7 +27,7 @@ En programación real, cada estructura o algoritmo tiene casos ideales de uso, y
 ## Semana 1 - Introducción al lenguaje C (Variables, entradas y salidas)
 
 |  #  |  Título  |  Teoría  |  Dificultad                 
-|-----|----------|----------|--------------
+|-----|----------|----------|-----------------------------
 |1|[Intercambiar dos variables sin usar una variable auxiliar](Semana%201/intercambiar-variable.c) | [Wiki](https://github.com/davidgimenezs/estructuras-de-datos-y-algoritmos/wiki/Ejercicio-001-%E2%80%90-Intercambiar-dos-variables-sin-usar-una-variable-auxiliar) | 🟢 Fácil
 |2|[Mostrar en pantalla solo el dígito más a la derecha de la suma de dos números](Semana%201/digito-derecha.c) | [Wiki](https://github.com/davidgimenezs/estructuras-de-datos-y-algoritmos/wiki/Ejercicio-002-%E2%80%90-Mostrar-en-pantalla-solo-el-d%C3%ADgito-m%C3%A1s-a-la-derecha-de-la-suma-de-dos-n%C3%BAmeros) | 🟢 Fácil
 |3|[Hallar el perímetro y el área de un triángulo dados sus lados](Semana%201/perimetro-area.c) | [Wiki](https://github.com/davidgimenezs/estructuras-de-datos-y-algoritmos/wiki/Ejercicio-003-%E2%80%90-Hallar-el-per%C3%ADmetro-y-el-%C3%A1rea-de-un-tri%C3%A1ngulo-dados-sus-lados) | 🟡 Intermedio
@@ -35,6 +35,6 @@ En programación real, cada estructura o algoritmo tiene casos ideales de uso, y
 ## Semana 2 - Introducción al lenguaje C (Estructuras de selección, control y repetición, funciones)
 
 |  #  |  Título  |  Teoría  |  Dificultad                 
-|-----|----------|----------|--------------
+|-----|----------|----------|-----------------------------
 |4|[Imprimir triángulos en consola con asteriscos](Semana%202/imprimir-triangulo.c) | [Wiki](https://github.com/davidgimenezs/estructuras-de-datos-y-algoritmos/wiki/Ejercicio-004-%E2%80%90-Imprimir-triangulos-en-consola-con-asteriscos) | 🟢 Fácil
 |5|[Juego del número secreto](Semana%202/numero-secreto.c) | [Wiki](https://github.com/davidgimenezs/estructuras-de-datos-y-algoritmos/wiki/Ejercicio-005-%E2%80%90-Juego-del-numero-secreto) | 🟡 Intermedio
