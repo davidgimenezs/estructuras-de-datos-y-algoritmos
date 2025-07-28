@@ -38,3 +38,4 @@ En programación real, cada estructura o algoritmo tiene casos ideales de uso, y
 |-----|----------|----------|--------------
 |4|[Imprimir triángulos en consola con asteriscos](Semana%202/imprimir-triangulo.c) | [Wiki](https://github.com/davidgimenezs/estructuras-de-datos-y-algoritmos/wiki/Ejercicio-004-%E2%80%90-Imprimir-triangulos-en-consola-con-asteriscos) | 🟢 Fácil
 |5|[Juego del número secreto](Semana%202/numero-secreto.c) | [Wiki](https://github.com/davidgimenezs/estructuras-de-datos-y-algoritmos/wiki/Ejercicio-005-%E2%80%90-Juego-del-numero-secreto) | 🟡 Intermedio
+|6|[Cargar y validar horarios](Semana%202/validar-horarios.c) | [Wiki](https://github.com/davidgimenezs/estructuras-de-datos-y-algoritmos/wiki/Ejercicio-006-%E2%80%90-Cargar-y-validad-horarios) | 🟡 Intermedio
