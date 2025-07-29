@@ -41,9 +41,9 @@ En programación real, cada estructura o algoritmo tiene casos ideales de uso, y
 |6|[Cargar y validar horarios](/Semana%202/validar-horarios.c) | | 🟡 Intermedio
 |7|[Convertir temperatura de Fahrenheit a Celsius](/Semana%202/convertir-temperatura.c) | | 🟢 Fácil
 |8|[Circunferencia y el área de un círculo dado su radio](/Semana%202/area-y-perimetro-circulo.c) | | 🟢 Fácil
-|9|[Producto de dos números ingresados como chars](/Semana%202/producto-de-chars.c) | | 🟡 Intermedio
+|9|[Producto de dos números ingresados como chars](/Semana%202/producto-de-chars.c) | | 🟢 Fácil
 |10|[Promedio de 5 números ingresados](/Semana%202/promedio-numeros.c) | | 🟢 Fácil
-|11|[Dígito central de un número de 5 cifras](/Semana%202/digito-del-medio.c) | | 🟡 Intermedio
+|11|[Dígito central de un número de 5 cifras](/Semana%202/digito-del-medio.c) | | 🟢 Fácil
 |12|[Mayúscula de cualquier letra](/Semana%202/mayuscula-de-letra.c) | | 🟢 Fácil
 |13|[Raíces de una ecuación de segundo grado](/Semana%202/raices-polinomio.c) | | 🟡 Intermedio
 <!-- ||[]()|| -->
