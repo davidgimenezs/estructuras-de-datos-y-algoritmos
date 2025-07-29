@@ -47,3 +47,29 @@ En programación real, cada estructura o algoritmo tiene casos ideales de uso, y
 |12|[Mayúscula de cualquier letra](/Semana%202/mayuscula-de-letra.c) | | 🟢 Fácil
 |13|[Raíces de una ecuación de segundo grado](/Semana%202/raices-polinomio.c) | | 🟡 Intermedio
 <!-- ||[]()|| -->
+
+## 🛠️ Instrucciones de uso
+
+1. Cloná el repositorio en tu máquina local:
+   ```bash
+   git clone https://github.com/davidgimenezs/estructuras-de-datos-y-algoritmos.git
+   ```
+
+2. Navegá a la carpeta del repositorio:
+   ```bash
+   cd estructuras-de-datos-y-algoritmos
+   ```
+
+3. Compilá y ejecutá cualquier archivo C:
+   ```bash
+   gcc "Semana 1/intercambiar-variable.c" -o intercambiar-variable
+   ./intercambiar-variable
+   ```
+
+4. Podés compilar en Windows con MinGW o usar un IDE como Code::Blocks, Dev-C++, o Visual Studio.
+
+## 📞 Contacto
+Si tenés dudas o sugerencias, podés contactarme a través de GitHub o en mis redes sociales.
+
+## 📄 Licencia
+Este proyecto está bajo la licencia MIT - podés ver más detalles en el archivo LICENSE.
