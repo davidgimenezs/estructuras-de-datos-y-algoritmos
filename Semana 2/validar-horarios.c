@@ -1,5 +1,17 @@
 #include <stdio.h>
 
+/*
+Escriba un programa en C que:
+- Lea una serie de horarios en formato hh:mm:ss y en ningun caso como variable entera (int).
+- La cantidad de horarios a ingresar define el usuario al principio.
+- Los horarios deben ser cambiados a segundos.
+- Imprimir el mayor horario desde el inicio del dia en segundos.
+- Si las horas insertadas superan las 24 horas, los minutos 60 y los segundos 60 imprimir "UNO DELOS HORARIOS MAL CARGADOS"
+- Al final imprimir la cantidad de horarios mal cargados o que estan fuera del rango normal
+- NO UTILIZAR cadenas de caracteres ni vectores para resolver este ejercicio.
+- Se debe implementar la funcion int cantsegundos(), que lee los horarios en el formato propuesto y retorna la cantidad de segundos.
+*/
+
 int cantsegundos(int h, int m, int s) {
     return h * 3600 + m * 60 + s;
 }
@@ -10,13 +22,11 @@ int leerNumero() {
     // Leer exactamente 2 caracteres
     c1 = getchar();
     c2 = getchar();
-    
-    // Verificar que ambos son dígitos
+
     if (c1 < '0' || c1 > '9' || c2 < '0' || c2 > '9') {
         return -1;
     }
-    
-    // Convertir a número
+
     return (c1 - '0') * 10 + (c2 - '0');
 }
 
@@ -34,45 +44,46 @@ int leerHorario(int *h, int *m, int *s) {
     *h = leerNumero();
     if (*h == -1) return 0;
     
-    // Verificar primer ':'
     if (!verificarSeparador()) return 0;
     
     // Leer minutos
     *m = leerNumero();
     if (*m == -1) return 0;
-    
-    // Verificar segundo ':'
+
     if (!verificarSeparador()) return 0;
     
     // Leer segundos
     *s = leerNumero();
     if (*s == -1) return 0;
     
-    // Consumir newline
     getchar();
     
-    // Validar rangos de tiempo
     return validarTiempo(*h, *m, *s);
 }
 
 void imprimirResultados(int maxSegundos) {
     if (maxSegundos != -1) {
         printf("Mayor cantidad de segundos: %d\n", maxSegundos);
+    } else {
+        printf("No se ingresaron horarios validos\n");
     }
 }
 
 int main() {
     int n, h, m, s;
     int maxSegundos = -1;
+    int horariosMalCargados = 0;
 
     printf("Ingrese la cantidad de horarios: ");
     scanf("%d", &n);
-    getchar(); // Consumir el newline después del número
+    getchar();
 
     for (int i = 0; i < n; i++) {
+        printf("Ingrese horario %d (hh:mm:ss): ", i + 1);
         if (!leerHorario(&h, &m, &s)) {
-            printf("UNO DE LOS HORARIOS MAL CARGADOS\n");
-            break;
+            printf("UNO DELOS HORARIOS MAL CARGADOS\n");
+            horariosMalCargados++;
+            continue;
         }
 
         int segundos = cantsegundos(h, m, s);
@@ -82,6 +93,7 @@ int main() {
     }
 
     imprimirResultados(maxSegundos);
+    printf("Cantidad de horarios mal cargados: %d\n", horariosMalCargados);
 
     return 0;
 }

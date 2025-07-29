@@ -1,4 +1,4 @@
-/* Triangulo isosceiles, solo utilizando sentencias (for, printf())
+/* Triangulo isosceles, solo utilizando sentencias (for y printf)
 
     *			altura
    ***			Ingresa el usuario n = 5
