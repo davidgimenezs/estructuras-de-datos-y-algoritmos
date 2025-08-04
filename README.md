@@ -54,6 +54,7 @@ En programación real, cada estructura o algoritmo tiene casos ideales de uso, y
 |  #  |  Título  |  Teoría  |  Dificultad                 
 |-----|----------|----------|--------------
 |14|[Ordenar elementos únicos de una lista de forma ascendente](/Semana%203/ordenar-lista.c) | | 🟡 Intermedio
+<!-- ||[]()|| -->
 
 
 ## 🛠️ Instrucciones de uso
@@ -74,7 +75,7 @@ En programación real, cada estructura o algoritmo tiene casos ideales de uso, y
    ./intercambiar-variable
    ```
 
-4. Podés compilar en Windows con MinGW o usar un IDE como Code::Blocks, Dev-C++, o Visual Studio.
+4. Podés compilar en Windows con MinGW o usar un IDE como Code::Blocks, Dev-C++, o Visual Studio, personalmente yo prefiero usar [Embarcadero Dev-C++](https://sourceforge.net/projects/embarcadero-devcpp/).
 
 ## 📞 Contacto
 Si tenés dudas o sugerencias, podés contactarme a través de GitHub o en mis redes sociales.
