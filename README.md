@@ -60,7 +60,7 @@ En programación real, cada estructura o algoritmo tiene casos ideales de uso, y
 
 |  #  |  Título  |  Teoría  |  Dificultad                 
 |-----|----------|----------|--------------
-|1|[Ordenar matriz antidiagonal](/lab/lab-01.c) | | 🟡 Intermedio
+|1|[Ordenar matriz antidiagonal](/lab/lab-001.c) | | 🟡 Intermedio
 <!-- ||[]()|| -->
 
 ## 🛠️ Instrucciones de uso
