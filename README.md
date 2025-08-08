@@ -56,6 +56,12 @@ En programación real, cada estructura o algoritmo tiene casos ideales de uso, y
 |14|[Ordenar elementos únicos de una lista de forma ascendente](/Semana%203/ordenar-lista.c) | | 🟡 Intermedio
 <!-- ||[]()|| -->
 
+## Laboratorios
+
+|  #  |  Título  |  Teoría  |  Dificultad                 
+|-----|----------|----------|--------------
+|1|[Ordenar matriz antidiagonal](/lab/lab-01.c) | | 🟡 Intermedio
+<!-- ||[]()|| -->
 
 ## 🛠️ Instrucciones de uso
 
