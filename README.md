@@ -24,6 +24,13 @@ Se usan como herramientas básicas al escribir programas. Por ejemplo:
 
 En programación real, cada estructura o algoritmo tiene casos ideales de uso, y parte del aprendizaje es saber cuándo conviene usar cada uno.
 
+## Labs
+
+|  #  |  Título  |  Teoría  |  Dificultad                 
+|-----|----------|----------|--------------
+|1|[Ordenar matriz antidiagonal](/lab/lab-001.c) | | 🟡 Intermedio
+<!-- ||[]()|| -->
+
 ## Semana 1 - Introducción al lenguaje C (Variables, entradas y salidas)
 
 |  #  |  Título  |  Teoría  |  Dificultad                 
@@ -54,13 +61,6 @@ En programación real, cada estructura o algoritmo tiene casos ideales de uso, y
 |  #  |  Título  |  Teoría  |  Dificultad                 
 |-----|----------|----------|--------------
 |14|[Ordenar elementos únicos de una lista de forma ascendente](/Semana%203/ordenar-lista.c) | | 🟡 Intermedio
-<!-- ||[]()|| -->
-
-## Laboratorios
-
-|  #  |  Título  |  Teoría  |  Dificultad                 
-|-----|----------|----------|--------------
-|1|[Ordenar matriz antidiagonal](/lab/lab-001.c) | | 🟡 Intermedio
 <!-- ||[]()|| -->
 
 ## 🛠️ Instrucciones de uso
