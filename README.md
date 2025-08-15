@@ -29,6 +29,7 @@ En programación real, cada estructura o algoritmo tiene casos ideales de uso, y
 |  #  |  Título  |  Teoría  |  Dificultad                 
 |-----|----------|----------|--------------
 |1|[Ordenar matriz antidiagonal](/lab/lab-001.c) | | 🟡 Intermedio
+|2|[Ordenar fechas cronológicamente](/lab/lab-002.c) | | 🟡 Intermedio
 <!-- ||[]()|| -->
 
 ## Semana 1 - Introducción al lenguaje C (Variables, entradas y salidas)
