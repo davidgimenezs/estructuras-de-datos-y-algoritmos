@@ -41,7 +41,10 @@ void leerFechas(int N, char fechas[][11], int dia[], int mes[], int anio[]) {
     for (i = 0; i < N; i++) {
         printf("Ingrese la fecha %d en formato dd/mm/aaaa: ", i + 1);
         scanf("%s", fechas[i]);
-        sscanf(fechas[i], "%d/%d/%d", &dia[i], &mes[i], &anio[i]);
+
+        dia[i] = (fechas[i][0] - '0') * 10 + (fechas[i][1] - '0');
+        mes[i] = (fechas[i][3] - '0') * 10 + (fechas[i][4] - '0');
+        anio[i] = (fechas[i][6] - '0') * 1000 + (fechas[i][7] - '0') * 100 + (fechas[i][8] - '0') * 10 + (fechas[i][9] - '0');
     }
 }
 
